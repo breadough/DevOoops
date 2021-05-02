@@ -1,0 +1,1 @@
+Hello, this is write file and this replaces the content of an existing file
