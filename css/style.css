@@ -1,0 +1,15 @@
+body{
+    background-image:url(assets/bg-signup.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+
+h1{
+    color:whitesmoke;
+    margin-left: 10px;
+}
+
+p{
+    color: whitesmoke;
+    margin-left: 20px;
+}
