@@ -1,0 +1,30 @@
+#Collection
+	fruits = ["apple", "banana", "cherry"]
+	x, y, z = fruits
+
+#Global variable scope
+	x = "awesome"
+
+	def myfunc():
+	  x = "cool!"
+	  print("Python is " + x) #cool 
+
+	myfunc()
+	print("Python is " + x) #awesome
+
+#Data types
+
+	Text Type:	str
+	Numeric Types:	int, float, complex
+	Sequence Types:	[list], (tuple), range(x)
+	Mapping Type:	dict {"name" : "John", "age" : 36}
+	Set Types:	set{ , frozenset :frozenset({ 
+	Boolean Type:	bool
+	Binary Types:	bytes, bytearray, memoryview
+	print(type(x)) #to display the data type
+
+#Python strings
+	-index starts at 0
+	print(b[2:5])
+	print(b[:5])
+	print(b[2:])
