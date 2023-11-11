@@ -1,2 +1,2 @@
-# DevOoops
-my personal DevOps documentations, notes and learnings.
+# Web Development Notes
+my personal Web Development documentations, notes and learnings.
